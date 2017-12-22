@@ -1,0 +1,34 @@
+title: ガンマニアズ
+description: 銃を紹介します。
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: 赤井らんぼ # add your name
+author-img: akairanbo.jpg # add your photo
+about-author: 私は、銃が好きです。ですのでみなさんにまとめサイトで少しでも興味を持ってもらいたいと思ってます # add description
+twitter: tanakayamada89
+facebook: # add your Facebook handle
+github: akai1256 # add your Github handle
+linkedin: # add your Linkedin handle
+email: # add your Email address
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins_dir:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

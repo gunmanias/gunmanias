@@ -1,0 +1,12 @@
+---
+layout: post
+title: はじめてのブログ記事
+date: 2017-12-22 17:00:00 +0900
+description: 初めて開設しました。よろしくお願いします。
+img: akairanbo.jpg # Add image post (optional)
+tags: [はじめて,] # add tag
+---
+
+はじめまして赤井らんぼといいます。
+
+これから頑張って更新します。よろしくお願いします。
