@@ -3,7 +3,7 @@ layout: post
 title: M60の実射動画です
 date: 2017-12-25 17:30:00 +0900
 description: M60の動画をはりました
-img:  # Add image post (optional)
+img: M60movie.jpg # Add image post (optional)
 tags: [M60,軽機関銃] # add tag
 ---
 
