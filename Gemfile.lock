@@ -73,8 +73,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  concurrent-ruby
-  jekyll
   jekyll-paginate
   jekyll-sitemap
   jemoji
